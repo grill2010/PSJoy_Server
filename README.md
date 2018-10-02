@@ -18,7 +18,6 @@ Some major parts of the PSJoy server are open source and are availabe on Github.
 * [https://github.com/komefai/PS4RemotePlayInterceptor](https://github.com/komefai/PS4RemotePlayInterceptor)
 * [https://github.com/Ruslan-B/FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen)
 
-You can download the PSJoy app [here](https://github.com/grill2010/PSJoy_Server). (*link coming soon*).  
 For more information please have a look at the [Wiki](https://github.com/grill2010/PSJoy_Server/wiki).
 
 If you encounter some bugs or if you have any other questions in regard to PSJoy feel free to contact me at f.grill160@gmail.com.
