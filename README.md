@@ -13,7 +13,7 @@ You can download the PSJoy app from:
 
 Some major parts of the PSJoy server are open source and are availabe on Github. If you are interested you can have a look at
 
-* [https://github.com/grill2010/PS4RemotePlayHook(https://github.com/grill2010/PS4RemotePlayHook)
+* [https://github.com/grill2010/PS4RemotePlayHook](https://github.com/grill2010/PS4RemotePlayHook)
 * [https://github.com/spazzarama/SharedMemory](https://github.com/spazzarama/SharedMemory)
 * [https://github.com/komefai/PS4RemotePlayInterceptor](https://github.com/komefai/PS4RemotePlayInterceptor)
 * [https://github.com/Ruslan-B/FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen)
